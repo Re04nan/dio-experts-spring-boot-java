@@ -56,7 +56,7 @@ Funcionamento da DI e IoC do Spring, como geramos um projeto utilizando o Spring
 
 ## Referência
 
-[Spring 🍃](https://spring.io/projects/)
+ - [Spring 🍃](https://spring.io/projects/)
 
 
 
