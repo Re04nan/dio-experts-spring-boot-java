@@ -7,7 +7,7 @@ public class EnviarEmails {
 	}
 	
 	public static EnviarEmails obterDadosEmail() {
-		return new EnviarEmails("stmp", "contato@email.com", "senha");
+		return new EnviarEmails("smtp", "contato@email.com", "senha");
 	}
 	
 	public void retornar(String mensagem) {
